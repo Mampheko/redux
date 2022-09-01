@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+  height: 600px;
+  align-items: center;
+}
+
+.btnIncrement{
+  width: 100px;
+  height: 30px;
+  background-color: gold;
+  font-size: 20px;
+  border: none;
+}
+
+.btnDecrement{
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  font-size: 20px;
+  border: none;
+}
